@@ -1,0 +1,9 @@
+langchain
+langchain-community 
+langchain-chroma
+tiktoken
+chromadb
+langchainhub
+sentence_transformers
+rootutils
+bs4
