@@ -1,4 +1,4 @@
-# usage: docker build -f dockerfile.cpu.devel -t hiseulgi/simple-rag:dev .
+# usage: docker build -f dockerfile.dev -t hiseulgi/simple-rag:dev .
 FROM python:3.10-slim
 
 ARG USERNAME=sugab
